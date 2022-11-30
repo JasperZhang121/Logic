@@ -1,2 +1,3 @@
 # Logic
-Paradox of implication: irrelevant reasoning &amp; counter-intuitive
+This repository contains a single word document for analysing the Paradox of implication: irrelevant reasoning & counter-intuitive. Pure thoery, no codes.
+
